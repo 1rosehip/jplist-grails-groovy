@@ -59,6 +59,5 @@ jPList CDN is provided by [cdnjs](http://www.cdnjs.com):
 
 ##Links
 - [Project Home](http://jplist.com)
-- [jPList on Binpress](http://www.binpress.com/app/jplist-jquery-data-grid-controls/2085?ad=34027)
 - [jPList on Facebook](https://www.facebook.com/jplist)
 - [jPList on Google+](https://plus.google.com/+Jplistjs)
