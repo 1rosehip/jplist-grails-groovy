@@ -61,3 +61,4 @@ jPList CDN is provided by [cdnjs](http://www.cdnjs.com):
 - [Project Home](http://jplist.com)
 - [jPList on Facebook](https://www.facebook.com/jplist)
 - [jPList on Google+](https://plus.google.com/+Jplistjs)
+- [jPList on Twitter](https://twitter.com/jquery_jplist)
